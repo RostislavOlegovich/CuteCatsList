@@ -1,4 +1,4 @@
-import 'package:cute_cats_app_by_rostislavovich/layout/grid_widget.dart';
+import 'package:cute_cats_app_by_rostislavovich/widgets/grid_widget.dart';
 import 'package:flutter/material.dart';
 
 class MyHomePage extends StatefulWidget {
